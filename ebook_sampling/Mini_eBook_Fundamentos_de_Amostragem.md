@@ -89,7 +89,7 @@ Uma empresa quer saber a satisfação dos seus clientes.
 
 Veja a comparação entre a proporção de clientes satisfeitos na população e na amostra:
 
-![Pesquisa de Satisfação](/images/pesquisa_satisfacao.png)
+![Pesquisa de satisfação](./images/pesquisa_satisfacao.png)
 
 ### Exemplo 2: Controle de Qualidade
 
@@ -100,7 +100,7 @@ Uma fábrica produz 1.000 peças por dia. Quer verificar se estão dentro do pad
 
 Percentual de peças dentro do padrão na população e na amostra:
 
-![Controle de Qualidade](/images/controle_qualidade.png)
+![Controle de Qualidade](./images/controle_qualidade.png)
 
 ### Exemplo 3: Estimativa da Altura Média com Intervalo de Confiança
 
@@ -108,7 +108,7 @@ Uma pesquisa mede a altura média da população com uma amostra de 200 pessoas.
 
 - Média amostral com intervalo de confiança 95% é mostrado no gráfico, comparado à média verdadeira da população.
 
-![Intervalo de Confiança](/images/intervalo_confianca.png)
+![Intervalo de Confiança](./images/intervalo_confianca.png)
 
 ---
 
@@ -139,7 +139,7 @@ Este mini eBook explica conceitos essenciais sobre amostragem, população, nív
 ### Como usar
 
 - Leia o conteúdo em `README.md` para entender os conceitos  
-- Veja os gráficos na pasta `/imagens` para visualizar os exemplos  
+- Veja os gráficos na pasta `/images` para visualizar os exemplos  
 - Use o material para estudo e aplicação em projetos de análise de dados  
 
 ---
