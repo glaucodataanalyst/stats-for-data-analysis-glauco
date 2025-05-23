@@ -89,7 +89,7 @@ Uma empresa quer saber a satisfação dos seus clientes.
 
 Veja a comparação entre a proporção de clientes satisfeitos na população e na amostra:
 
-![Pesquisa de Satisfação](imagens/pesquisa_satisfacao.png)
+![Pesquisa de Satisfação](/images/pesquisa_satisfacao.png)
 
 ### Exemplo 2: Controle de Qualidade
 
@@ -100,7 +100,7 @@ Uma fábrica produz 1.000 peças por dia. Quer verificar se estão dentro do pad
 
 Percentual de peças dentro do padrão na população e na amostra:
 
-![Controle de Qualidade](imagens/controle_qualidade.png)
+![Controle de Qualidade](/images/controle_qualidade.png)
 
 ### Exemplo 3: Estimativa da Altura Média com Intervalo de Confiança
 
@@ -108,7 +108,7 @@ Uma pesquisa mede a altura média da população com uma amostra de 200 pessoas.
 
 - Média amostral com intervalo de confiança 95% é mostrado no gráfico, comparado à média verdadeira da população.
 
-![Intervalo de Confiança](imagens/intervalo_confianca.png)
+![Intervalo de Confiança](/images/intervalo_confianca.png)
 
 ---
 
